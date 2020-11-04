@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: GoogleSans,Helvetica,Arial,sans-serif;
+}
+.App {
+    position: relative;
+    height: 100vh;
+    background-image: url(../../images/spiderman4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+    #wrap-content {
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(27, 51, 66, 0.41)
+    }
+}
+
+

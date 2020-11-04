@@ -1,0 +1,22 @@
+.sidebar-wrap {
+  height: 100vh;
+  background-color: rgba(63, 71, 84, 0.68);
+  width: 150px;
+  float: left;
+  position: fixed;
+  left: 0px;
+  top: 71px;
+  display: flex;
+  flex-direction: column;
+  .one-tab {
+    color: white;
+    padding: 16px;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+  }
+  .one-tab:hover {
+    background-color: rgba(21, 14, 14, 0.35);
+  }
+}

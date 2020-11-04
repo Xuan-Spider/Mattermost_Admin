@@ -1,0 +1,16 @@
+.footer-wrap  {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    background: #443f41;
+    align-items: center;
+    color: white;
+    padding: 0px 70px;
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+}

@@ -1,0 +1,12 @@
+export const SIGNIN = 'SIGNIN';
+export const SIGNIN_SUCCESS = 'SIGNIN_SUCCESS';
+export const SIGNIN_FAILURE = 'SIGNIN_FAILURE';
+export const LOGOUT = 'LOGOUT';
+export const SIGNUP = 'SIGNUP';
+export const ADD_TEAM = 'ADD_TEAM';
+export const UPDATE_TEAM = 'UPDATE_TEAM';
+export const DELETE_TEAM = 'DELETE_TEAM';
+export const GET_TEAM = 'GET_TEAM';
+export const TOAST_SUCCESS = 'TOAST_SUCCESS';
+export const TOAST_FAILURE = 'TOAST_FAILURE';
+export const GET_TEAM_BY_ID = 'GET_TEAM_BY_ID';
